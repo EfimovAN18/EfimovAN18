@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 🎓 Студент **Московского политеха**, направление «Программная инженерия»
+- 🎓 Студент **Московского Политехнического Университета**, направление «Разработка и интеграция бизнес приложений"
 - 📊 Анализирую данные: **SQL**, **pandas**, статистика, A/B-тесты, дашборды в **DataLens**
 - 🔧 Двигаюсь в **Data Engineering**: ETL, хранилища, оркестрация
 - ☕ Изучаю **Java-бэкенд** (Spring Boot)
@@ -101,7 +101,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfimovAN18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TG)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
